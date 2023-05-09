@@ -1,0 +1,7 @@
+Channel:PJSIP/101
+Callerid:despertador
+WaitTime:30
+MaxRetries:1
+RetryTime:120
+Context:callback
+Extension:420
